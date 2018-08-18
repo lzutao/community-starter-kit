@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Your GitHub Learning Lab Repository for Community Starter Kit
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Making your project friendlier for collaboration.
 
 ## Getting started
 
